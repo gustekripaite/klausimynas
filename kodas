@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Negalimybė matyti priekyje einančio žmogaus veido langų atspindžiuose</title>
+</head>
+<body>
+
+	<h1>klausimynas</h1>
+	
+	<form id="quiz-form">
+	
+		<!-- klausimas 1 -->
+		<h3>Kuri iš šių frazių teisinga:</h3>
+		<input type="radio" name="q1" value='<a href="https://www.google.com/maps/search/?api=1&query=54.683875,25.300394" target="_blank">Pirmas pražydęs medis</a>'>YOLO (You Only Live Once – liet. Tu gyveni tik kartą)<br>
+		<input type="radio" name="q1" value='<a href="https://www.google.com/maps/search/?api=1&query=54.682537,25.299070" target="_blank">Kapinės</a>'>Tu gyveni kiekvieną dieną, miršti tik kartą<br>
+		<input type="radio" name="q1" value='<a href="https://www.google.com/maps/search/?api=1&query=54.684359,25.298778" target="_blank">Pranašystė</a>'>Viskas yra simuliacija<br><br>
+		
+		<!-- klausimas 2 -->
+		<h3>Su kuriuo iš keturių klasikinių elementų labiausiai tapatinatės?</h3>
+            <img src="https://f005.backblazeb2.com/file/gustesfailai/Four_elements_representation.svg.png" alt="1234">
+            <br>
+		<input type="radio" name="q2" value='<a href="https://www.google.com/maps/search/?api=1&query=54.684512,25.302022" target="_blank">Akmuo</a>'>Žemė<br>
+		<input type="radio" name="q2" value='<a href="https://www.google.com/maps/search/?api=1&query=54.684755,25.297874" target="_blank">Žemos kokybės (išsipikseliavusi) žemė</a>'>Oras<br>
+		<input type="radio" name="q2" value='<a href="https://www.google.com/maps/search/?api=1&query=54.687651,25.301908" target="_blank">Velykų eglutė</a>'>Ugnis/Vanduo<br><br>
+		
+		<!-- klausimas 3 -->
+		<h3>Kurį Dantės pragaro ratą rinktumėtės?</h3>
+            <img src="https://f005.backblazeb2.com/file/gustesfailai/onion_news1285_jpg_600x1000_q85.jpg" alt="123456789">
+            <br>
+		<input type="radio" name="q3" value='<a href="https://www.google.com/maps/search/?api=1&query=54.685034,25.299277" target="_blank">Daugiaakiai medžiai</a>'>Trečią – jame baudžiami apsirijėliai nuolatiniu lietaus, sniego ir krušos plakimu. Juos prižiūri Cerberis (arba Kerberis (gr. Κέρβερος, „bedugnės demonas“), graikų mitologijoje – trigalvis Hado šuo, saugojęs Tartaro vartus). Šliaužiojantys purve, plakami šalto lietaus, kaukiantys kaip šunys, apsirijėliai atkartoja savo šaltą, savanaudišką, tuščią gyvenimo gašlumą.<br>
+		<input type="radio" name="q3" value='<a href="https://www.google.com/maps/search/?api=1&query=54.685435,25.299583" target="_blank">Keistai augančių medžių giraitė</a>'>Septintą – jame baudžiami smurtautojai. Šis ratas padalintas į tris skyrius - pirmame kraujo upėje nardinami smurtautojai prieš artimą, antrame – savižudžiai, paversti kreivais, juodais, kraujuojančiais medžiais, trečiame – ugnies lietaus plakami, degančiame smėlyje skęstantys smurtautojai prieš Dievą, meną ir gamtą.<br>
+		<input type="radio" name="q3" value='<a href="https://www.google.com/maps/search/?api=1&query=54.685830,25.300068" target="_blank">Pusiau gyvas medis</a>'>Devintą – tai paskutinis ratas – išdavikų buveinė. Pačiame pragaro dugne yra didžiulis ledo ežeras Kokitas (senovės graikų mitologijoje Kokitas – raudų upė, viena požemio karalystės upių, kurioje gyvenančios vėlės.) Jame yra 4 skyriai, kuriuose yra atitinkamai laikomi giminių, tėvynės, svečių ir savo geradarių išdavikai. Jie įšalę į ledą taip, kad net negali verkti, nes ašaros tuoj pat sušąla. Pačiame centre yra didžiausias išdavikas – Liuciferis (išdavė Dievą). Jis pavaizduotas kaip trigalvis pabaisa, triuškinantis Judą (išdavė Jėzų Kristų), Brutą (išdavė Julijų Cezarį) ir Kasijų (vienas iš Cezario nužudymo sąmokslininkų, Cezario svainis).<br><br>
+
+            <!-- klausimas 4 -->
+		<h3>Kurį serialą žiūrėtumėte?</h3>
+		<input type="radio" name="q4" value='<a href="https://www.google.com/maps/search/?api=1&query=54.685387,25.298752" target="_blank">Trys pušelės</a>'>„Twin Peaks“ (liet. „Tvin Pykso miestelis“)<br><img src="https://f005.backblazeb2.com/file/gustesfailai/twin-1-min.jpg" alt="1"><br>
+		<input type="radio" name="q4" value='<a href="https://www.google.com/maps/search/?api=1&query=54.686046,25.299545" target="_blank">Mėlynas medis</a>'>„Arrested Development“ (liet. „Sustabdyta raida“)<br><img src="https://f005.backblazeb2.com/file/gustesfailai/AAAABafpfUbAYK9kwLcYdEKyDcI7GTKn05ZhftbW1Ev7TIqm8iAID4b-V5l-5Mto3Ewx_u_PBneSAg51_4XdyHrQJd0mHl3o3dsRvljN1YjWARLNK_JVXO_loXYO.jpg" alt="2"><br>
+		<input type="radio" name="q4" value='<a href="https://www.google.com/maps/search/?api=1&query=54.687566,25.303819" target="_blank">Didžioji dauba</a>'>„Dekalog“ (liet. „Dekalogas“)<br><img src="https://f005.backblazeb2.com/file/gustesfailai/Dvd_parts5-6.png" alt="3"><br><br>
+
+            <!-- klausimas 5 -->
+		<h3>Jei gyventumėte laikais, kai dar galėtumėte daryti įtaką tam, ką dabar laikome senovės lietuvių mitologija ir papročiais, kurį gyvūną padarytumėte blogiuku ir bent laikinai sugadintumėte jo įvaizdį:</h3>
+		<input type="radio" name="q5" value='<a href="https://www.google.com/maps/search/?api=1&query=54.686755,25.302772" target="_blank">Elektros laidas</a>'>Žaltį<br>
+		<input type="radio" name="q5" value='<a href="https://www.google.com/maps/search/?api=1&query=54.686159,25.302263" target="_blank">Medis su apskritimu</a>'>Ežį<br>
+		<input type="radio" name="q5" value='<a href="https://www.google.com/maps/search/?api=1&query=54.688067,25.304050" target="_blank">Drėvė</a>'>Bitę<br><br>
+
+            <!-- klausimas 6 -->
+		<h3>Kas skamba baisiau:</h3>
+		<input type="radio" name="q6" value='<a href="https://www.google.com/maps/search/?api=1&query=54.685350,25.301487" target="_blank">Trikampis</a>'>Esate kapų plėšikas XIX a. Egipte, įsibraunate į piramidę, bet nerandate kelio atgal (esate žemėje, rojuje ir pragare tuo pačiu metu)<br><img src="https://f005.backblazeb2.com/file/gustesfailai/10179_320.jpg" alt="1"><br>
+		<input type="radio" name="q6" value='<a href="https://www.google.com/maps/search/?api=1&query=54.687192,25.303397" target="_blank">Susipynęs medis</a>'>Jūs Vilniuje galite vaikščioti tik pagal Artūro Railos kūrinio „Žemės galia“ kontekste sudaryto Vilniaus miesto energetinių taškų žemėlapio jungiamosiomis linijomis/tinklu<br><img src="https://f005.backblazeb2.com/file/gustesfailai/zemes+galia+2.png" alt="2" width="500" height="400"><br>
+		<input type="radio" name="q6" value='<a href="https://www.google.com/maps/search/?api=1&query=54.687299,25.303435" target="_blank">Dauba ir neįprastai tiesus medis</a>'>Savo rankose fiziškai negalėtumėte laikyti daiktų, kurių paviršius nebūtų visiškai tiesus (nebūtų įmanoma valgyti virtų spagečių)<br><img src="https://f005.backblazeb2.com/file/gustesfailai/Examples-of-Straight-Angle.jpg" alt="3" width="425" height="400"><br><br>
+
+            <!-- klausimas 7 -->
+		<h3>Jei pasaulyje nebūtų šiukšliadėžių, kur mestumėte šiukšles?</h3>
+		<input type="radio" name="q7" value='<a href="https://www.google.com/maps/search/?api=1&query=54.686785,25.302858" target="_blank">9</a>'>Į tualetą<br>
+		<input type="radio" name="q7" value='<a href="https://www.google.com/maps/search/?api=1&query=54.685060,25.301214" target="_blank">Kelio pabaiga</a>'>Palei kelią<br>
+		<input type="radio" name="q7" value='<a href="https://www.google.com/maps/search/?api=1&query=54.682024,25.298310" target="_blank">Išmaldos prašytojas</a>'>Atiduočiau kitiems<br><br>
+		
+		
+		
+
+          <script>
+
+function showAnswers() {
+  var inputs = document.getElementsByTagName('input');
+  var answers = [];
+  for (var i = 0; i < inputs.length; i++) {
+    if (inputs[i].type == 'radio' && inputs[i].checked) {
+      answers.push(inputs[i].value);
+    }
+  }
+
+  // Hide the form
+  document.getElementById('quiz-form').style.display = 'none';
+
+  // Display the answers
+  var answersDisplay = document.getElementById('answers-display');
+  answersDisplay.style.display = 'block';
+  
+  var answerList = "<ul>";
+  for (var j = 0; j < answers.length; j++) {
+    answerList += "<li>" + answers[j] + "</li>";
+  }
+  answerList += "</ul>";
+  answersDisplay.innerHTML = 'Jūsų maršruto objektai: ' + answerList;
+}
+
+
+          </script>
+
+	
+	</form>
+
+	<div id="answers-display" style="display: none;"></div>
+
+	<button type="button" onclick="showAnswers()">Ačiū, gana</button>
+
+	
+</body>
+</html>
